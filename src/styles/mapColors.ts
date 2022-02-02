@@ -1,0 +1,2 @@
+export const EU_MAP_COLOUR_SELECTED="#208cff";
+export const EU_MAP_COLOUR_NOT_SELECTED="#CCCCCC"
