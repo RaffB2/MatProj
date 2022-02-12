@@ -14,11 +14,7 @@ let theme = createTheme({
   },
 });
 
-//TODO: Figure out how the hell material ui works -_-
-//TODO: Finish TODO's ( LOL )
-//TODO: Write tests ( LOL )
 function App() {
-  // TODO: implement routing - MOSTLY DONE! GREAT JOB ME!
   return (
     <ThemeProvider theme={theme}>
       <div>
